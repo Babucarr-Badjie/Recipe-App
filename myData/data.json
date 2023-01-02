@@ -1,0 +1,65 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Domoda",
+      "description": "An incredibly rich and delicious African peanut stew recipe that tastes even better the next day! Known as Domoda, it’s the national dish of Gambia. ",
+      "ingredients": [
+        "1 lb beef steak or 1 lb chicken breast cut into 1/2 inch chunks",
+        "1 large onion diced",
+        "2 tablespoons olive oil",
+        "3 cloves garlic minced",
+        "3 Roma tomatoes diced",
+        "1/2 can 3 oz tomato paste",
+        "3/4 cup natural unsweetened peanut butter",
+        "2 Maggi/jumbo",
+        "3 litres of water",
+        "Scotch bonnet chilies diced",
+        "4 sweet potato diced",
+        "Salt and pepper to taste"
+      ],
+      "instruction": "Heat the oil in large Dutch oven. Saute the onions until golden. Add the beef and garlic and continue to sauté until the beef is no longer pink. Add the tomatoes and cook for 3 minutes. Add the tomato paste, chilies, peanut butter and stir to combine. Add the water and bouillon cubes. Bring to a boil, reduce heat, cover, and simmer for 15 minutes, stirring occasionally. Add squash, cover, and continue to cook for 35-40 minutes or until the pumpkin is tender, stirring occasionally. Season with salt and pepper. Serve hot with rice.",
+      "cookingTime": "1 hour"
+    },
+    {
+      "id": "2",
+      "title": "Benachin",
+      "description": "Benachin also known as Jollof rice packs a powerful punch in the taste stakes, but its origins are a point of contention with many African nations claiming it as their own. Jollof is believed to have originated in the Senegambia region of West Africa among the Wolof people, where it is known as benachin. The mouth-watering meal has travelled throughout the sub-region because of the frequent cultural exchange that goes on there. As such, it has evolved into several regional varieties, laced with the heritage of the place where it is prepared. Nevertheless, it maintains its magic and is relished all over Africa.",
+      "ingredients": [
+        "2 lb Fresh fish/beef/chicken",
+        "2 cup Vegetable oil",
+        "6 cup Water",
+        "1 medium Fresh tomato",
+        "2 large Onions",
+        "1 small Cabbage",
+        "2 medium Carrots",
+        "2 Bay leaves",
+        "1 teaspoon pounded fresh peppers",
+        "3 cloves garlic",
+        "salt to taste",
+        "4 cup Of rice"
+      ],
+      "instruction": "Chop up all ingredients. In a big pot, add enough oil to cover the bottom about 1/4 inch and heat. After the oil's hot, add the chopped garlic. Wait until it's brown (to flavour the oil) and then remove the chunks of garlic. Add the chopped butternut squash and let it cook for 2-3 minutes, and then the fish. Then add the onions and keep stirring. Then add the chopped up green pepper and about 1/2 teaspoon salt. Mix in the pureed hot peppers and black pepper. Add 2 cups of water and then mix in the tomatoes. Stir in about 3 spoons of tomato paste and cover the pot. After coming to a boil sprinkle in 2 cups of rice and 2 more cups of water. Reduce heat to simmer. Add additional water and spices as needed. Add in the cabbage. Wait for the rice to do its thing, and you're all set.",
+      "cookingTime": "1 hr 30 mins"
+    },
+    {
+      "id": "3",
+      "title": "Plasas",
+      "description": "Plasas is a “sauce” always made with some sort of greens, meat and dried fish, thickened with egusi or peanut butter, and served with a starchy side-dish. An astounding variety of greens (i.e., leaf vegetables that must be cooked) can be used in Plasas and similar soups and stews. Plasas is most often found in Gambia and Sierra Leone, where it may be another way of saying Palava Sauce or Palaver Sauce. ",
+      "ingredients": [
+        "½ cup red palm oil or other cooking oil",
+        "1 lb beef, or any stew meat, cut into bite-sized cubes",
+        "1 chile pepper (or green or red sweet bell pepper), chopped",
+        "2 onions, chopped",
+        "2 ½ lbs greens (sweet potato leaves, or cassava leaves)",
+        "1 piece dried, salted, or smoked fish, cleaned, rinsed, and cut into pieces",
+        "½ cup dried shrimp (optional)",
+        "1/2 peanut butter (natural, unsweetened)",
+        "red pepper (to taste)",
+        "baking soda or salt (to taste)"
+      ],
+      "instruction": "Heat the oil in a large pot. Fry the meat in the oil for a few minutes. Add the chile pepper (or bell pepper), onions, beef broth cube, and a cup or two of water. Bring to a boil, then reduce heat. Add the greens, cover, and cook until they are tender. (Spinach will cook quickly, in 10 to 15 minutes; the other greens will take an hour or longer. When the greens are tender and the meat is fully cooked: add the dried fish and dried shrimp. In a cup or small bowl, combine the egusi (or peanut butter) with hot water (or liquid from the cooking pot), stir until smooth, then add to the greens and meat. Simmer for ten minutes more. Serve with Rice, or Fufu.",
+      "cookingTime": "1 hr 40 mins"
+    }
+  ]
+}
