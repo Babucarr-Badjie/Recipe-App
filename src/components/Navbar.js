@@ -6,7 +6,7 @@ export default function Navbar() {
     <div className="navbar">
       <nav>
         <Link to="/" className="nav-link">
-          <h1>Cooking Recipe</h1>
+          <h1>Cooking Recipes</h1>
         </Link>
         <Link to="/create">Create a new Recipe</Link>
       </nav>

@@ -6,12 +6,13 @@ export default function RecipeList({ recipes }) {
     <div className="recipe-list">
       {recipes.map((recipe) => (
         <div key={recipe.id} className="card">
-              <h3>{recipe.title}</h3>
-              <p>{ recipe.description.substring(0, 125)}...</p>
-              <p>{recipe.cookingTime} to make</p>
-              <div>{recipe.instruction.substring(0, 100)}...</div>
-              <Link to={`/recipe/${recipe.id}`}>Try this amazing recipe</Link>
+          <h3>{recipe.title}</h3>
+          <p>{recipe.description.substring(0, 100)}...</p>
+          <p>{recipe.cookingTime} to make</p>
+          <div>{recipe.instruction.substring(0, 100)}...</div>
+          <Link to={`/recipes/${recipe.id}`} className="link">Try this amazing recipe</Link>
         </div>
+        
       ))}
     </div>
   );
