@@ -46,15 +46,15 @@ export const useFetch = (url, method = "GET") => {
           setError("Could not fetch the data");
         }
       }
-
-      // check
-      if (method === "GET") {
-        fetchData();
-      }
-      if (method === "POST" && options) {
-        fetchData(options);
-      }
     };
+
+    // check
+    if (method === "GET") {
+      fetchData();
+    }
+    if (method === "POST" && options) {
+      fetchData(options);
+    }
 
     fetchData();
 
